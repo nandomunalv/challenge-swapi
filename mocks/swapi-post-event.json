@@ -1,0 +1,16 @@
+{
+  "body": {
+    "clima" : "Lluvioso",
+    "diametro" : "231456",
+    "peliculas" : [],
+    "gravedad" : "1 standard",
+    "nombre" : "Tierrita Lejana",
+    "periodoOrbital" : "133",
+    "poblacion" : "12321321",
+    "residentes" : [],
+    "periodoRotacion" : "24",
+    "superficieAcuatica" : "1",
+    "terreno" : "Llano",
+    "url" : "http://consulta.aqui.com"
+  }
+}
